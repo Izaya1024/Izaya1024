@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/batalla.svg" width="100%" alt="Migré la base de datos de MariaDB a PostgreSQL y la interfaz a React con Vite, corrigiendo los efectos de carrera con transacciones. Armé pruebas unitarias, de integración y de extremo a extremo con Vitest y Playwright, además de pruebas de accesibilidad y de carga. Hice una auditoría de seguridad que dejó permisos por rol, cierre remoto de sesiones y datos personales según la Ley 21.719. Escribí los requerimientos, diagramas e informes técnicos del sistema, por lo que quien siga el trabajo sabe cómo funciona." />
+  <img src="assets/batalla.svg" width="100%" alt="Migración de bases de datos, como de MariaDB a PostgreSQL, y paso de interfaces a React con Vite sin perder datos ni funciones. Pruebas unitarias, de integración y de extremo a extremo con Vitest y Playwright, además de revisiones de accesibilidad y pruebas de carga. Auditorías de seguridad, permisos por rol, manejo de sesiones y protección de datos personales según la Ley 21.719. Requerimientos, diagramas e informes técnicos, para que quien siga el trabajo entienda cómo funciona el sistema." />
 </p>
 
 <!-- Correo de trabajo: agregar aquí cuando esté listo -->
